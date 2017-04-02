@@ -1,2 +1,6 @@
+index-hardcoded.html
+.asset-cache/
+.jekyll-metadata
 backup/
 .DS_Store
+_site/

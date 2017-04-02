@@ -1,0 +1,31 @@
+permalink: /notes/:year/:month/:day/:title
+markdown: kramdown
+# kramdown:
+#   parse_block_html: true
+# baseurl: ""
+# gems:
+#   - jekyll-assets
+# assets:
+#
+#   #
+#
+#   autowrite: true
+#   prefix: "assets"
+#   digest: true
+# #
+# #   #
+# #
+#   assets:
+#     - "*.png"
+#     - "*.jpg"
+#     - "bundle.css"
+#     - "main.css"
+#
+#   #
+#
+#   sources:
+#     - assets/css
+#     - assets/images
+#     - assets/fonts
+#     - assets/img
+#     - assets/js
