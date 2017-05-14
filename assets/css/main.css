@@ -716,6 +716,7 @@ Home Section
 .hs-title-size-4 {
 	letter-spacing: 0.2em;
 	font-size: 36px;
+	padding-top: 100px;
 }
 
 /* Video */
@@ -1590,6 +1591,13 @@ Responsive Media Querries
 		        box-shadow: none;
 	}
 
+	.countdown {
+    font-size: 40px;
+    font-family: "Inconsolata";
+    font-weight: bold;
+    padding-top: 0px;
+}
+
 	/* Headers */
 
 	.hs-title-size-1 {
@@ -1605,7 +1613,9 @@ Responsive Media Querries
 	}
 
 	.hs-title-size-4 {
-		font-size: 36px;
+		padding-top: 60px;
+		font-size: 34px;
+		letter-spacing: 0;
 	}
 
 
