@@ -5,6 +5,4 @@ permalink: test
 layout: default
 ---
 
-# test page
-
 yo
