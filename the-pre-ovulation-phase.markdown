@@ -29,7 +29,7 @@ Inactivity and slowness could frustrate you, you need movement.
 Empathy and supporting people on emotional level can be challenging.
 Impatience
 Being too much in your head thinking and organising can also have the opposite effect on you. Fresh air and movement will definitely help you get out of your head. 
-Keep in mind that this precious time is coming and leaving. Your energy is moving and it is an amazing gift. 
+**Keep in mind that this precious time is coming and leaving. Your energy is moving and it is an amazing gift. **
 
 ### Tips:
 Get out! and enjoy all the physical activities you love! You need movement! Your body and your mind can’t be bored locked at home. Follow your beautiful impulsivity!
