@@ -1,7 +1,6 @@
 ---
 title: Yoni Eggs Blessing
 date: 2017-06-27 20:08:00 Z
-published: false
 ---
 
 ## What are Yoni Eggs?
