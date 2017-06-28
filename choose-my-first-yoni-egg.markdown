@@ -1,7 +1,6 @@
 ---
 title: Choose my first yoni egg
 date: 2017-06-27 20:10:00 Z
-published: false
 ---
 
 Here we are beautifuls, if you are interested on the adventure, you probably have a lot of questions on how to choose your eggs.
