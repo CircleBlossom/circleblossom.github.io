@@ -1,7 +1,6 @@
 ---
 title: The Pre-ovulation Phase
 date: 2017-06-27 19:57:00 Z
-published: false
 ---
 
 ## The Maiden of Spring - Day 7 to 13
