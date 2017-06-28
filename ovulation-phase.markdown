@@ -1,7 +1,6 @@
 ---
 title: Ovulation Phase
 date: 2017-06-27 19:58:00 Z
-published: false
 ---
 
 ## The Mother of Summer - Day 14 to 20
