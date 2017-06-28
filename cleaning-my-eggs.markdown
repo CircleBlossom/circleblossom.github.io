@@ -1,7 +1,6 @@
 ---
 title: Cleaning my eggs
 date: 2017-06-27 20:14:00 Z
-published: false
 ---
 
 Here is the beauty of yoni egg, with a proper care, they will last a lifetime! 
