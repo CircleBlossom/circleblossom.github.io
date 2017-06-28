@@ -1,7 +1,6 @@
 ---
 title: Pre-menstruation Phase
 date: 2017-06-27 20:02:00 Z
-published: false
 ---
 
 ## The Priestess of Autumn - Day 21 to 28
