@@ -1,7 +1,6 @@
 ---
 title: The Menstruation Phase
 date: 2017-06-27 19:51:00 Z
-published: false
 ---
 
 ## The Winter Wise Woman - Day 1 to 6
