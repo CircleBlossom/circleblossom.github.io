@@ -1,7 +1,6 @@
 ---
 title: Agenda
 date: 2017-06-27 20:16:00 Z
-published: false
 ---
 
 AGENDA
