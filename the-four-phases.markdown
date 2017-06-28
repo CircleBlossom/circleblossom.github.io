@@ -1,7 +1,6 @@
 ---
 title: The four phases
 date: 2017-06-27 19:48:00 Z
-published: false
 ---
 
 In this chapter, you will discover the essential of The Woman Cycle’s four phases.
