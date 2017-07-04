@@ -28,30 +28,6 @@ layout: default
 
 # UPCOMING
 
-#### **JUL**
-###### 5-9
-#### **ITALIAN HOOP CONNECTION 2017**
-##### Montefiorino, Italy
-<br>
-
-#### **JUL**
-###### 20
-#### **RACHAEL LUST HULA HOOP WORKSHOP**
-#### Paris, France
-<br>
-
-#### **AUG**
-###### 8
-#### **WORLD WOMB BLESSING ATTUNEMENT**
-##### Amsterdam, Netherlands
-<br>
-
-#### **AUG**
-###### 17-23
-#### **GLOBAL ECLIPSE GATHERING**
-##### Oregon, USA
-###### We love eclipses as a potent reminder that this amazing Universe is alive and beautiful!
-<br>
 
 #### **SEPT**
 ###### 8-9
@@ -72,6 +48,31 @@ layout: default
 
 
 # PAST
+#### **AUG**
+###### 17-23
+#### **GLOBAL ECLIPSE GATHERING**
+##### Oregon, USA
+###### We love eclipses as a potent reminder that this amazing Universe is alive and beautiful!
+<br>
+
+#### **AUG**
+###### 8
+#### **WORLD WOMB BLESSING ATTUNEMENT**
+##### Amsterdam, Netherlands
+<br>
+
+#### **JUL**
+###### 20
+#### **RACHAEL LUST HULA HOOP WORKSHOP**
+#### Paris, France
+<br>
+
+#### **JUL**
+###### 5-9
+#### **ITALIAN HOOP CONNECTION 2017**
+##### Montefiorino, Italy
+<br>
+
 #### **JUN**
 ###### 24
 #### **TRANCE ORIENT EXPRESS, SOLSTICE LIGHT**

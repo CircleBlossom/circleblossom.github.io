@@ -99,13 +99,13 @@ check out Madame Black Obsidian set
 Important:  You will find online many types of exotic gemstones for cheap blowing prices; keep in mind that not every crystal is safe to be worn inside the vagina. After researching and testing, we are proud to propose yoni eggs that contain all the powerful elements of precious stones and a safe quality to be placed into your sacred space.
 </span>
 
-### The Blossom crystal set
+<!-- ### The Blossom crystal set
 This is the most popular set. This set of three eggs is ideal from a beginner, intermediate to advanced egg lover.
 It is composed of the three traditional taoist stones: A large Jade Egg, a medium Rose Quartz Egg and a small Obsidian Egg to allow yourself to go deeper in your practice.
 
 ### The Dream Circle Set
 Choose three eggs of your choice Large, medium and small
-
+ -->
 
 
 ## Drilled or undrilled egg?
