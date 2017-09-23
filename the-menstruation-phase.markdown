@@ -3,6 +3,7 @@ title: The Menstruation Phase
 date: 2017-06-27 19:51:00 Z
 layout: default
 ---
+
 <section id="home" class="module-hero module-parallax module-fade module-full-height bg-dark-50" data-background="{{ site.baseurl }}{% link /assets/images2/34.jpg %}">
 
   <div class="hs-caption container">

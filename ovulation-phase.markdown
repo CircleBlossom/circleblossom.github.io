@@ -3,6 +3,7 @@ title: Ovulation Phase
 date: 2017-06-27 19:58:00 Z
 layout: default
 ---
+
 <section id="home" class="module-hero module-parallax module-fade module-full-height bg-dark-50" data-background="{{ site.baseurl }}{% link /assets/images2/31.jpg %}">
 
   <div class="hs-caption container">

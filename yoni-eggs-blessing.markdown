@@ -3,6 +3,7 @@ title: Yoni Eggs Blessing
 date: 2017-06-27 20:08:00 Z
 layout: default
 ---
+
 <section id="home" class="module-hero module-parallax module-fade module-full-height bg-dark-50" data-background="{{ site.baseurl }}{% link /assets/images2/28.jpg %}">
 
   <div class="hs-caption container">

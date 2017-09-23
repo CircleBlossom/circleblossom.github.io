@@ -3,6 +3,7 @@ title: Caring about my Yoni Egg
 date: 2017-06-27 20:14:00 Z
 layout: default
 ---
+
 <section id="home" class="module-hero module-parallax module-fade module-full-height bg-dark-50" data-background="{{ site.baseurl }}{% link /assets/images2/30.jpg %}">
 
   <div class="hs-caption container">
