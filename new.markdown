@@ -30,19 +30,19 @@ layout: default
 # The Hula Hoop Cards
 
 
-Nous sommes très heureux de vous présenter **le tout premier jeu de cartes de Hula Hoop** créer pour les amoureux du cerceau.
+Nous sommes très heureux de vous présenter **le tout premier jeu de cartes de Hula Hoop** créé pour les amoureux du cerceau.
 
 **A jouer seul ou à plusieurs!**
 
-Voici le tout nouveau concept développé pour les hoopers afin d'être accompagné dans sa pratique, de développer sa créativité et d’apprendre de nouveaux mouvements tout en s’éclatant avec son cerceau.
+Voici le tout nouveau concept développé pour les hoopers qui propose un accompagnement dans la pratique de hoopdance, un développement de la créativité ainsi que de nouveaux mouvements à apprendre tout en s’éclatant avec son cerceau.
 
 ![yo](/assets/images/33.jpg)
 
-En manque d’inspiration pour créer votre prochaine chorégraphie, show, performance?
-Vous débutez le Hula Hoop et avez envie d’un accompagnement ludique pour apprendre des mouvements?
-Un nouveau workshop en préparation, vos cours hebdomadaire à organiser, vous recherchez une nouvelle méthode de travail?
-Avez-vous déjà été confrontés à la page blanche? Prendre votre cerceau et malgré les centaines de vidéos regardées, les workshop et conventions auxquels vous avez assisté, vous avez le sentiment de ne pas avancer ?
-Comment trouver les mouvements liés à un thème qui vous tient à coeur et faire passer un message à travers votre danse?
+* En manque d’inspiration pour créer votre prochaine chorégraphie, show, performance?
+* Vous débutez le Hula Hoop et avez envie d’un accompagnement ludique pour apprendre des mouvements?
+* Un nouveau workshop en préparation, vos cours hebdomadaires à organiser, vous recherchez une nouvelle méthode de travail?
+* Avez-vous déjà été confrontés à la page blanche? Prendre votre cerceau et malgré les centaines de vidéos regardées, les workshop et conventions auxquels vous avez assisté, vous avez le sentiment de ne pas avancer ?
+* Comment trouver les mouvements liés à un thème qui vous tient à coeur et faire passer un message à travers votre danse?
 
 
 Ci-dessous, une interview d'Héloïse Clarks menée par Christelle Demarine sur les coulisses de la conception des Hula Hoop Cards.
@@ -58,7 +58,7 @@ et professeurs de Hoopdance.**
 
 
 
-Pour toute commande, merci de nous adresser [un email.](mailto:contactcircleblossom@gmail.com)
+Pour toute commande, merci de nous adresser [un email contactcircleblossom@gmail.com.](mailto:contactcircleblossom@gmail.com)
 
 
 

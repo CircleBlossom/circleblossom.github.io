@@ -42,11 +42,12 @@ img {
 	margin-top: 20px;*/
 }
 
-iframe {
-  margin-left: 250px;
-	border: 0;
+@media (min-width: 1200px) {
+	iframe {
+	margin-left: 250px;
+		border: 0;
+	}
 }
-
 .leftauto {
 	right: 0 !important;
 	left: auto !important;
