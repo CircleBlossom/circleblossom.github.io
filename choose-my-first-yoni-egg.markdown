@@ -123,6 +123,10 @@ After a few weeks of practice, you’ll learn how to be able to push the egg out
 
 We consciously choose to provide Drilled Eggs. The magic of drilled Yoni Eggs is that they can be used both with string or not as you don’t have to buy all your twin undrilled ones.
 
+<ul class="pager">
+				   <li class="previous"><a href="{{ site.baseurl }}{% link yoni-eggs-blessing.markdown %}">Previous</a></li>
+			     <li class="next"><a href="{{ site.baseurl }}{% link cleaning-my-eggs.markdown %}">Next</a></li>
+			   </ul>
 
 </section>
 

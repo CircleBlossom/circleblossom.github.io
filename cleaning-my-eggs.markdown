@@ -75,6 +75,10 @@ For a regular practice of 4/5 times a week, cleaning once or twice a month is pe
 Notice that if you use your Yoni Eggs with your partner for making love, a cleanse after sex is necessary to let your lover’s energy goes out of your egg.
 I will tell you more about men and Yoni Egg soon.
 
+<ul class="pager">
+				   <li class="previous"><a href="{{ site.baseurl }}{% link choose-my-first-yoni-egg.markdown %}">Previous</a></li>
+			     <li class="next"><a href="{{ site.baseurl }}{% link yoni-eggs-blessing.markdown %}">Back to</a></li>
+</ul>
 
 </section>
 

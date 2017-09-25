@@ -65,7 +65,14 @@ On each phase we experience specific abilities physically, mentally and emotiona
 
 By knowing our optimum aptitudes, we are able to organise our month consciously and reach our full potential. It is simply a better comprehension on how our body, brain and soul work to embrace the life.
 
+<ul class="pager">
+    <li class="next"><a href="{{ site.baseurl }}{% link the-four-phases.html %}">Next</a></li>
+    <!-- <li class="next"><a href="/pre-menstruation-phase">Back to </a></li> -->
+  </ul>
+
 </section>
+
+
 
 </div>
 </div>

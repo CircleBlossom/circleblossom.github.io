@@ -65,7 +65,10 @@ Please be gentle to yourself, this amazing technique is made for you to analyse 
 
 >Remind yourself that a new project is always beneficial to be started during the Pre-Ovulation phase right after your period when you have all the energy to organise and motivate yourself to accomplish your goals.
 
-
+<ul class="pager">
+    <li class="previous"><a href="{{ site.baseurl }}{% link the-four-phases.html %}">Previous</a></li>
+    <li class="next"><a href="{{ site.baseurl }}{% link organise-your-month.markdown %}">Next</a></li>
+  </ul>
 
 </section>
 

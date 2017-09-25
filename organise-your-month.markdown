@@ -73,6 +73,10 @@ I hope these examples will help you understand how you can take control of your 
 
 Please, feel free to contact me for any advice, questions and requests.
 
+<ul class="pager">
+				   <li class="previous"><a href="{{ site.baseurl }}{% link menstrualcycleblessing.markdown %}">Back to</a></li>
+</ul>
+
 </section>
 
 </div>

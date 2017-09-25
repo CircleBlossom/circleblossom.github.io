@@ -85,14 +85,14 @@ Tell your feelings to the people you love.
 
 It is good to start writing some good memories of the day and keeping them in a journal. I personally write my three top of the day, every morning on my bullet journal.
 
+<ul class="pager">
+    <li class="previous"><a href="{{ site.baseurl }}{% link the-pre-ovulation-phase.markdown %}">Previous</a></li>
+    <li class="next"><a href="{{ site.baseurl }}{% link pre-menstruation-phase.markdown %}">Next</a></li>
+  </ul>
+
 </section>
 
 </div>
 </div>
 </div>
 </div>
-
-<ul class="pager">
-    <li class="previous"><a href="{{ site.baseurl }}{% link the-pre-ovulation-phase.markdown %}">Previous</a></li>
-    <li class="next"><a href="{{ site.baseurl }}{% link pre-menstruation-phase.markdown %}">Next</a></li>
-  </ul>

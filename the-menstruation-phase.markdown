@@ -93,14 +93,14 @@ If you are familiar with any relaxation or meditation techniques, it is a fabulo
 
 It requires self-confidence to postpone a job if you have some dead-line but it will give you the best results. Trust yourself: the more you rest, the more energised and powerful you’ll be in the next days.
 
+<ul class="pager">
+    <!-- <li class="previous"><a href="#">Previous</a></li> -->
+    <li class="next"><a href="{{ site.baseurl }}{% link the-pre-ovulation-phase.markdown %}">Next</a></li>
+  </ul>
+
 </section>
 
 </div>
 </div>
 </div>
 </div>
-
-<ul class="pager">
-    <!-- <li class="previous"><a href="#">Previous</a></li> -->
-    <li class="next"><a href="{{ site.baseurl }}{% link the-pre-ovulation-phase.markdown %}">Next</a></li>
-  </ul>

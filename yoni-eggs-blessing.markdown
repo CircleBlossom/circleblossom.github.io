@@ -59,16 +59,13 @@ This is a non-exhaustive list of what you can experience with regular practice:
  - Discovering new level in your meditation or yoga practices
  - Confidence in your daily life
 
-
+ <ul class="pager">
+     <!-- <li class="previous"><a href="{{ site.baseurl }}{% link ovulation-phase.markdown %}">Previous</a></li> -->
+     <li class="next"><a href="{{ site.baseurl }}{% link choose-my-first-yoni-egg.markdown %}">Next</a></li>
+   </ul>
  </section>
 
  </div>
  </div>
  </div>
  </div>
-
-
- <!-- <ul class="pager">
-     <li class="previous"><a href="{{ site.baseurl }}{% link ovulation-phase.markdown %}">Previous</a></li>
-     <li class="next"><a href="/pre-menstruation-phase">Back to </a></li>
-   </ul> -->
