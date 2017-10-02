@@ -57,7 +57,7 @@ Ci-dessous, une interview d'Héloïse Clarks menée par Christelle Demarine sur 
 * **accessible aux débutants; intermédiaires; avancés; twin-multi hooping
 et professeurs de Hoopdance.**
 
-
+**PRIX: 18 euros**
 
 Pour toute commande, merci de nous adresser [un email contactcircleblossom@gmail.com.](mailto:contactcircleblossom@gmail.com)
 

@@ -30,33 +30,33 @@ layout: default
 # The Hula Hoop Cards
 
 
-We are really happy to introduce you **The First Hula Hoop Cards Game** for all the hooplovers.
+We are really happy to introduce **The First Hula Hoop Cards Game** for all hooplovers.
 
 
-You can play alone or with your friends!
+You can play alone or with friends!
 ACCESS ALL LEVEL!
 
-Here is the new concept created for the hoopers offering an accompaniment to the Hoopdance practice; a creativity development and new movements to learn while having fun with the circle.
+Here is the new concept created for hoopers offering a companion to the Hoop dance practice; creativity development and new movements to learn while having fun with the circle.
 
 ![yo](/assets/images/33.jpg)
 
 
 <br>
 * Do you need some inspiration to create you next routine, choreography, show, performance?
-* You are a beginner in hoopdance and need some keys to learn new movements and have fun?
+* Are you a beginner in hoop dance and need some tips to learn new movements and have fun?
 * A new workshop to prepare? A weekly class to organize? A new working method to find?
-* Have you been in front of the white dashboard and been confronted some blockages?
+* Have you been in front of the whiteboard and been blocked?
 <br>
-You watched thousands of videos tutorials, been to conventions and fantastics hoop events but sometimes feel that you don’t know anything?
-* Do you want to dance a message to your audience and find the appropriate moves connected to your act concept?
-* Do you like guidance desk cards and practice meditation and mantras?
+You watched thousands of video tutorials, been to conventions and fantastic hoop events, but sometimes feel that you don’t know anything?
+* Do you want to dance a message to your audience and find the appropriate moves connected to your concepta act?
+* Do you like guidance desk cards and practicing meditation and mantras?
 
-**This your NEW TEACHING METHODOLOGY, your GUIDANCE and MEDITATION CARDS, your new accessory WHO WILL NEVER LEAVE YOU?**
+**This your NEW TEACHING METHODOLOGY, your GUIDANCE and MEDITATION CARDS, your new accessory THAT WILL NEVER LEAVE YOU?**
 
 * **26 cards + 4 COLOR CIRCLES + 1 FLOW card**
-* **billions and billions combinations!**
-* **differents games included**
-* **tricks catalogs with more than 100 hoopdance movements and new tricks to received**
+* **billions and billions of combinations!**
+* **different games included**
+* **tricks catalog with more than 100 hoop dance movements and new tricks to receive**
 * **access beginners; intermediates; advanced; twin-multi hooping and teachers.**
 
 **PRICE: 18 euros**
