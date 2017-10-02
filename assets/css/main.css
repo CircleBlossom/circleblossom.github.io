@@ -546,6 +546,7 @@ h1 {
 		 font-size: 80px;
 		 color: #afb797;
 		 padding: 30px;
+		 text-align: center;
 	 }
 }
 
@@ -608,7 +609,12 @@ h3 {
  }
 }
 
-
+@media (min-width: 1200px) {
+		#cards {
+		/*margin-left: 240px;*/
+		width: 900px;
+	}
+}
 
 ol, ul, blockquote {
 	/*font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;*/
@@ -626,6 +632,7 @@ ol, ul, blockquote {
 @media (min-width: 1200px) {
 	ol, ul, blockquote {
 		margin-left: 240px;
+		/*width: 900px;*/
 	}
 }
 
@@ -1770,6 +1777,7 @@ Responsive Media Querries
 	.navbar-custom .open > .dropdown-menu {
 		visibility: visible;
 		opacity: 1;
+		width: auto;
 	}
 
 	.navbar-right .dropdown-menu {

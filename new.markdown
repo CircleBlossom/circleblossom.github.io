@@ -1,5 +1,5 @@
 ---
-title: The Hula Hoop Cards
+title: The Hula Hoop Cards | FR
 date: 2017-06-27 20:14:00 Z
 layout: default
 ---
@@ -23,46 +23,11 @@ layout: default
 
 <div class="col-sm-12 col-md-12">
 
-<section id="bless" markdown="1">
+<section id="cards" markdown="1">
 
 
 
 # The Hula Hoop Cards
-
-
-Nous sommes très heureux de vous présenter **le tout premier jeu de cartes de Hula Hoop** créé pour les amoureux du cerceau.
-
-**A jouer seul ou à plusieurs!**
-
-Voici le tout nouveau concept développé pour les hoopers qui propose un accompagnement dans la pratique de hoopdance, un développement de la créativité ainsi que de nouveaux mouvements à apprendre tout en s’éclatant avec son cerceau.
-
-![yo](/assets/images/33.jpg)
-
-* En manque d’inspiration pour créer votre prochaine chorégraphie, show, performance?
-* Vous débutez le Hula Hoop et avez envie d’un accompagnement ludique pour apprendre des mouvements?
-* Un nouveau workshop en préparation, vos cours hebdomadaires à organiser, vous recherchez une nouvelle méthode de travail?
-* Avez-vous déjà été confrontés à la page blanche? Prendre votre cerceau et malgré les centaines de vidéos regardées, les workshop et conventions auxquels vous avez assisté, vous avez le sentiment de ne pas avancer ?
-* Comment trouver les mouvements liés à un thème qui vous tient à coeur et faire passer un message à travers votre danse?
-
-
-Ci-dessous, une interview d'Héloïse Clarks menée par Christelle Demarine sur les coulisses de la conception des Hula Hoop Cards.
-<iframe margin-left="250px" width="63%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/343850131&amp;color=%23eb8989&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-<!-- <iframe margin-left="250px" width="63%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/342489882&amp;color=ebc4c1&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe> -->
-
-**Voici votre NOUVEL OUTIL DE TRAVAIL, votre jeu de cartes GUIDANCE et MÉDITATION, votre nouvel accessoire QUI NE VOUS QUITTERA PLUS JAMAIS.**
-* **jeu de 26 cartes + 4 COLOR CIRCLES + 1 carte FLOW**
-* **des billions de combinaisons possibles!**
-* **des jeux différents proposés**
-* **un catalogue avec plus de 100 tricks par niveau et d’autres à recevoir**
-* **accessible aux débutants; intermédiaires; avancés; twin-multi hooping
-et professeurs de Hoopdance.**
-
-
-
-Pour toute commande, merci de nous adresser [un email contactcircleblossom@gmail.com.](mailto:contactcircleblossom@gmail.com)
-
-
-
 
 
 </section>
@@ -71,3 +36,66 @@ Pour toute commande, merci de nous adresser [un email contactcircleblossom@gmail
 </div>
 </div>
 </div>
+
+<div class="wrapper">
+
+  <!-- PORTFOLIO -->
+  <section class="module-full-height">
+
+    <div class="container">
+
+      <!-- PORTFOLIO FILTER -->
+      <div class="row">
+        <div class="col-sm-12 col-md-12">
+
+          <ul id="filters" class="filter font-inc">
+            <li><a href="#" data-filter="*" class="current wow fadeInUp"></a></li>
+            <li><a href="#" data-filter=".illustration" class="wow fadeInUp" data-wow-delay="0.2s"></a></li>
+            <li><a href="#" data-filter=".marketing" class="wow fadeInUp" data-wow-delay="0.4s"></a></li>
+            <li><a href="#" data-filter=".photography" class="wow fadeInUp" data-wow-delay="0.6s"></a></li>
+            <li><a href="#" data-filter=".webdesign" class="wow fadeInUp" data-wow-delay="0.8s"></a></li>
+          </ul>
+
+        </div>
+      </div>
+      <!-- /PORTFOLIO FILTER -->
+
+      <!-- PORTFOLIO LIST -->
+      <ul id="works-grid" class="works-grid works-grid-masonry works-grid-2 works-hover-w">
+
+        <!-- /PORTFOLIO ITEM -->
+
+        <!-- PORTFOLIO ITEM -->
+        <li class="work-item marketing photography">
+          <a href="{{ site.baseurl }}{% link new-fr.markdown %}">
+            <div class="work-image">
+              <img src="{{ site.baseurl }}{% link /assets/images2/cards-fr.png %}" alt="">
+            </div>
+            <div class="work-caption">
+              <h3 class="work-title font-alt">The Hula Hoop Cards</h3>
+              <div class="work-descr font-inc">
+
+              </div>
+            </div>
+          </a>
+        </li>
+        <!-- /PORTFOLIO ITEM -->
+
+        <!-- PORTFOLIO ITEM -->
+      <li class="work-item illustration photography">
+          <a href="{{ site.baseurl }}{% link new-en.markdown %}">
+            <div class="work-image">
+              <img src="{{ site.baseurl }}{% link /assets/images2/cards-en.png %}" alt="">
+            </div>
+            <div class="work-caption">
+              <h3 class="work-title font-alt">The Hula Hoop Cards</h3>
+              <div class="work-descr font-inc">
+
+              </div>
+            </div>
+          </a>
+        </li>
+
+
+       </ul>
+    </div>
