@@ -28,92 +28,85 @@ layout: default
 <section id="agenda" markdown="1">
 
 # UPCOMING
-
-
-#### **SEPT**
-###### 8-9
-#### **ATELIER MOON MOTHER 2 by MIRANDA GRAY**
+#### **April 26-28**
+###### Paris, France
+#### **ATELIER INITIATION MOON MOTHER**
+#### Formation de deux jours pour devenir une Moon Mother et recevoir l'enseignement de Miranda Gray.
+#### [EN SAVOIR PLUS](http://atelierdesames.com/benediction-de-luterus-paris/)
 <br>
 
-#### **OCT**
-###### 6-8
-#### **SWHOOP 2017 by EMMA KENNA, HOOPINGMAD**
-##### Bristol, UK
+#### **June 20-24 2018**
+###### Parc régional du Perche, France
+#### **RADIANCE RETREAT**
+#### A la découverte du Cycle Féminin
+#### [EN SAVOIR PLUS](https://www.radiance-retreat.com/)
 <br>
-
-#### **DEC**
-##### Hogsback, South Africa
-<br>
-
-
 
 
 # PAST
-#### **AUG**
-###### 17-23
+#### **November; December; January 2017**
+#### Hogsback, South Africa
+<br>
+
+#### **October 6-8 2017**
+###### Bristol, UK
+#### **SWHOOP 2017 by EMMA KENNA, HOOPINGMAD**
+<br>
+
+#### **September 8-9 2017**
+###### Paris, France
+#### **ATELIER MOON MOTHER 2 by MIRANDA GRAY**
+<br>
+
+#### **August 17-23 2017**
+###### Oregon, USA
 #### **GLOBAL ECLIPSE GATHERING**
-##### Oregon, USA
-###### We love eclipses as a potent reminder that this amazing Universe is alive and beautiful!
+#### We love eclipses as a potent reminder that this amazing Universe is alive and beautiful!
 <br>
 
-#### **AUG**
-###### 8
+#### **August 8 2017**
+###### Amsterdam, Netherlands
 #### **WORLD WOMB BLESSING ATTUNEMENT**
-##### Amsterdam, Netherlands
 <br>
 
-#### **JUL**
-###### 20
+#### **July 20 2017**
+###### Paris, France
 #### **RACHAEL LUST HULA HOOP WORKSHOP**
-#### Paris, France
 <br>
 
-#### **JUL**
-###### 5-9
+#### **July 5-9 2017**
+###### Monter
 #### **ITALIAN HOOP CONNECTION 2017**
-##### Montefiorino, Italy
 <br>
 
-#### **JUN**
-###### 24
-#### **TRANCE ORIENT EXPRESS, SOLSTICE LIGHT**
-##### Ruigoord, Netherlands
-<br>
-
-#### **MAY-JUN**
-###### 23-1
+#### **May 23 - June 1 2017**
+#### Tadah Artist Habitat, Turkey
 #### **ADVANCED TEACHER TRAINING by EMMA KENNA**
-##### Tadah Artist Habitat, Turkey
 <br>
 
-#### **MAY**
-###### 10
+#### **May 10 2017**
+###### Amsterdam, Netherlands
 #### **WORLD WOMB BLESSING ATTUNEMENT**
-##### Amsterdam, Netherlands
 <br>
 
-#### **APR**
-###### 1-2
+#### **April 1st 2017**
+###### Paris, France
 #### **RENDEZ-V’HOOP FRANCE**
-##### Paris, France
 <br>
 
-#### **FEB**
-###### 19
+#### **February 19 2017**
+###### Paris, France
 #### **ATELIER FEMME OPTIMALE by MIRANDA GRAY**
-##### Paris, France
 <br>
 
-#### **FEB**
-###### 16-17
+#### **February 16-17 2017**
+###### Paris, France
 #### **ATELIER MOON MOTHER 1 by MIRANDA GRAY**
-##### Paris, France
 <br>
 
-#### **FEB**
-###### 11
+#### **February 11 2017**
+###### Amsterdam, Netherlands
 #### **WORLD WOMB BLESSING ATTUNEMENT**
-##### Amsterdam, Netherlands
 <br>
 
 </section>
